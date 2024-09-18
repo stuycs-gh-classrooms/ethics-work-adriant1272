@@ -1,0 +1,18 @@
+Topic: Ludicium Ex Machinae
+
+Thing 1:
+PRIVATIZING SENTENCING: A DELEGATION FRAMEWORK FOR RECIDIVISM RISK ASSESSMENT
+Andrea Nishi
+Columbia Law Review, Vol. 119, No. 6 (OCTOBER 2019), pp. 1671-1710 (40 pages)
+https://www.jstor.org/stable/26794353
+
+- contract with private companies to develop this; hard for govt to see inside da machine
+	- judges and defendants cannot access this info
+	- "in a 2016 case from Wisconsin, a private developer denied an offender’s request for information about the algorithm that was used to determine his sentence on the ground that it was a trade secret"
+	- More generic black box problem; how exactly to define (e.g., is recidivism second arrest in next 5 or 10 years?)
+- main use of AI in court system in squo is recidivism risk assessment 
+- Generic args for risk assessment tools:
+	- Reduce prison population; save money
+	- Free of individual bias
+	- Reduce recidivism --> judge better understands defendent's rehab needs
+- 
