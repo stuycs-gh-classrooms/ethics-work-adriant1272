@@ -1,4 +1,4 @@
-# Work Repository For NeXTCS Fall 2024
-### Name: YOUR NAME HERE
+# Work Repository For CS Ethics Fall 2024
+### Name: Adrian Turkedjiev
 
 ---
